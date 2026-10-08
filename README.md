@@ -33,42 +33,37 @@ Gosto de criar para a web, trabalhar em interfaces que funcionem bem no computad
 
 ## Experiência profissional
 
-<table width="68%" align="center">
-  <tr>
-    <td valign="top">
-      <a href="https://natanashi.github.io/raika-personalizados/">
-        <img src="./assets/raika-site.png" alt="Página inicial do site da Raika Personalizados" width="520">
-      </a>
-      <h3 align="center">Raika Personalizados</h3>
-      <p>Desenvolvi o site da <strong>Raika Personalizados</strong>, empresa de cartões, topos de bolo, painéis, lembrancinhas, adesivos, etiquetas e outros produtos sob encomenda.</p>
-      <p>Organizei a identidade visual, o catálogo, o portfólio e os caminhos de contato em uma experiência responsiva para computador e celular.</p>
-      <p align="center">
-        <a href="https://natanashi.github.io/raika-personalizados/"><strong>Visitar o site</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/natanashi/raika-personalizados"><strong>Repositório</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### Raika Personalizados
+
+<a href="https://natanashi.github.io/raika-personalizados/">
+  <img src="./assets/raika-site.png" alt="Página inicial do site da Raika Personalizados" width="100%">
+</a>
+
+Desenvolvi o site da **Raika Personalizados**, uma empresa que cria produtos personalizados para festas, eventos e outros momentos especiais. O trabalho da empresa inclui cartões, topos de bolo, painéis, lembrancinhas, adesivos, etiquetas, embalagens e outros materiais feitos sob encomenda.
+
+Nesse projeto, transformei a identidade visual e o catálogo da empresa em uma experiência web organizada, responsiva e fácil de usar. Estruturei a apresentação dos serviços, o portfólio de produtos e os caminhos de contato e orçamento. Foi uma experiência profissional importante para praticar criação de interfaces, adaptação para celular e desenvolvimento de um site voltado às necessidades reais de uma empresa.
+
+<p align="center">
+  <a href="https://natanashi.github.io/raika-personalizados/"><strong>Visitar o site</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/natanashi/raika-personalizados"><strong>Ver o repositório</strong></a>
+</p>
 
 ## Jogo em desenvolvimento
 
-<table width="68%" align="center">
-  <tr>
-    <td valign="top">
-      <a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/">
-        <img src="https://raw.githubusercontent.com/natanashi/sapo_do_chapeu_de_palha/main/assets/social-preview.jpg" alt="Capa da versão beta de Sapo do Chapéu de Palha" width="520">
-      </a>
-      <h3 align="center">Sapo do Chapéu de Palha — versão beta</h3>
-      <p>A versão do navegador é uma <strong>beta</strong> para testar jogabilidade, cenários, inimigos e progressão. A versão oficial será lançada para <strong>Steam</strong> e <strong>Play Store</strong>.</p>
-      <p align="center">
-        <a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/"><strong>Jogar a beta</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/natanashi/sapo_do_chapeu_de_palha"><strong>Repositório</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### Sapo do Chapéu de Palha — versão beta
+
+<a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/">
+  <img src="https://raw.githubusercontent.com/natanashi/sapo_do_chapeu_de_palha/main/assets/social-preview.jpg" alt="Capa da versão beta de Sapo do Chapéu de Palha" width="100%">
+</a>
+
+A versão disponível no navegador é uma **beta**, criada para testar a jogabilidade, os cenários, os inimigos e a progressão da corrida. O desenvolvimento continua, e a versão oficial será lançada para **Steam** e **Play Store**.
+
+<p align="center">
+  <a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/"><strong>Jogar a versão beta</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/natanashi/sapo_do_chapeu_de_palha"><strong>Acompanhar o desenvolvimento</strong></a>
+</p>
 
 ## Ferramentas que fazem parte do meu caminho
 
