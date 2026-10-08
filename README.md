@@ -17,6 +17,14 @@
   </a>
 </p>
 
+<a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/">
+  <img src="https://raw.githubusercontent.com/natanashi/sapo_do_chapeu_de_palha/main/assets/social-preview.jpg" alt="Jogar Sapo do Chapéu de Palha" width="100%">
+</a>
+
+<p align="center">
+  <a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/"><strong>Jogar Sapo do Chapéu de Palha no navegador</strong></a>
+</p>
+
 ---
 
 ## Sobre mim
