@@ -17,14 +17,6 @@
   </a>
 </p>
 
-<a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/">
-  <img src="https://raw.githubusercontent.com/natanashi/sapo_do_chapeu_de_palha/main/assets/social-preview.jpg" alt="Jogar Sapo do Chapéu de Palha" width="100%">
-</a>
-
-<p align="center">
-  <a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/"><strong>Jogar Sapo do Chapéu de Palha no navegador</strong></a>
-</p>
-
 ---
 
 ## Sobre mim
@@ -38,6 +30,40 @@ Tenho um carinho especial por interfaces bem cuidadas, experiências interativas
 ## O que gosto de fazer
 
 Gosto de criar para a web, trabalhar em interfaces que funcionem bem no computador e no celular e experimentar com animações, jogos e ideias visuais. Também me interesso pela parte mais estrutural dos projetos: organizar o código e conectar dados.
+
+## Experiência profissional
+
+### Raika Personalizados
+
+<a href="https://natanashi.github.io/raika-personalizados/">
+  <img src="./assets/raika-site.png" alt="Página inicial do site da Raika Personalizados" width="100%">
+</a>
+
+Desenvolvi o site da **Raika Personalizados**, uma empresa que cria produtos personalizados para festas, eventos e outros momentos especiais. O trabalho da empresa inclui cartões, topos de bolo, painéis, lembrancinhas, adesivos, etiquetas, embalagens e outros materiais feitos sob encomenda.
+
+Nesse projeto, transformei a identidade visual e o catálogo da empresa em uma experiência web organizada, responsiva e fácil de usar. Estruturei a apresentação dos serviços, o portfólio de produtos e os caminhos de contato e orçamento. Foi uma experiência profissional importante para praticar criação de interfaces, adaptação para celular e desenvolvimento de um site voltado às necessidades reais de uma empresa.
+
+<p align="center">
+  <a href="https://natanashi.github.io/raika-personalizados/"><strong>Visitar o site</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/natanashi/raika-personalizados"><strong>Ver o repositório</strong></a>
+</p>
+
+## Jogo em desenvolvimento
+
+### Sapo do Chapéu de Palha — versão beta
+
+<a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/">
+  <img src="https://raw.githubusercontent.com/natanashi/sapo_do_chapeu_de_palha/main/assets/social-preview.jpg" alt="Capa da versão beta de Sapo do Chapéu de Palha" width="100%">
+</a>
+
+A versão disponível no navegador é uma **beta**, criada para testar a jogabilidade, os cenários, os inimigos e a progressão da corrida. O desenvolvimento continua, e a versão oficial será lançada para **Steam** e **Play Store**.
+
+<p align="center">
+  <a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/"><strong>Jogar a versão beta</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/natanashi/sapo_do_chapeu_de_palha"><strong>Acompanhar o desenvolvimento</strong></a>
+</p>
 
 ## Ferramentas que fazem parte do meu caminho
 
