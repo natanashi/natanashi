@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/nataniel_wilson/">
-    <img src="https://img.shields.io/badge/Instagram-@nataniel__wilson-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Nataniel Wilson">
+  <a href="https://www.instagram.com/nataniel_wilson_/">
+    <img src="https://img.shields.io/badge/Instagram-@nataniel__wilson__-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Nataniel Wilson">
   </a>
   <a href="https://github.com/natanashi?tab=repositories">
     <img src="https://img.shields.io/badge/Meus_repositórios-172A3A?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios de Natanashi">
@@ -29,9 +29,7 @@ Tenho um carinho especial por interfaces bem cuidadas, experiências interativas
 
 ## O que gosto de fazer
 
-Gosto de criar para a web, trabalhar em interfaces que funcionem bem no computador e no celular e experimentar com animações, jogos e ideias visuais. Também me interesso pela parte mais estrutural dos projetos: organizar o código, conectar dados e pensar em como tudo pode ser mais claro para quem usa.
-
-Não tenho a pretensão de saber tudo. O que me motiva é justamente continuar aprendendo, testar possibilidades novas e perceber que o projeto de hoje ficou melhor do que o de ontem.
+Gosto de criar para a web, trabalhar em interfaces que funcionem bem no computador e no celular e experimentar com animações, jogos e ideias visuais. Também me interesso pela parte mais estrutural dos projetos: organizar o código e conectar dados.
 
 ## Ferramentas que fazem parte do meu caminho
 
@@ -51,5 +49,5 @@ Não tenho a pretensão de saber tudo. O que me motiva é justamente continuar a
 
 <p align="center">
   Obrigado por passar por aqui. Se quiser acompanhar o que estou criando além do GitHub, me encontre no
-  <a href="https://www.instagram.com/nataniel_wilson/">Instagram</a>.
+  <a href="https://www.instagram.com/nataniel_wilson_/">Instagram</a>.
 </p>
