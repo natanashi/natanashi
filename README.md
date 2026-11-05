@@ -33,7 +33,7 @@ Gosto de criar para a web, trabalhar em interfaces que funcionem bem no computad
 
 ## Projeto em destaque
 
-### Retro Desktop — Windows 95 & 98
+### RetroDesk98 — Windows 95 & 98
 
 <a href="https://retrodesk98.vercel.app/">
   <img src="./assets/retro-windows-cover.png" alt="Capa oficial do Retro Desktop Windows 95 e 98" width="100%">
