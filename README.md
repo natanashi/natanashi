@@ -35,7 +35,7 @@ Gosto de criar para a web, trabalhar em interfaces que funcionem bem no computad
 
 ### Retro Desktop — Windows 95 & 98
 
-<a href="https://retro-desktop-windows-95-98-nataniel-work.vercel.app/">
+<a href="https://retrodesk98.vercel.app/">
   <img src="./assets/retro-windows-cover.png" alt="Capa oficial do Retro Desktop Windows 95 e 98" width="100%">
 </a>
 
@@ -44,7 +44,7 @@ Criei uma experiência interativa para revisitar os desktops do **Windows 95 e W
 O projeto foi desenvolvido com **HTML, CSS e JavaScript**, com atenção aos detalhes visuais da época e à experiência de usar um computador antigo.
 
 <p align="center">
-  <a href="https://retro-desktop-windows-95-98-nataniel-work.vercel.app/"><strong>Acessar o projeto Windows 95 & 98 no Vercel</strong></a>
+  <a href="https://retrodesk98.vercel.app/"><strong>Acessar o projeto Windows 95 & 98 no Vercel</strong></a>
 </p>
 
 ## Experiência profissional
