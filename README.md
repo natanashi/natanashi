@@ -49,20 +49,20 @@ Nesse projeto, transformei a identidade visual e o catálogo da empresa em uma e
   <a href="https://github.com/natanashi/raika-personalizados"><strong>Ver o repositório</strong></a>
 </p>
 
-## Jogo em desenvolvimento
+## Projeto em destaque
 
-### Sapo do Chapéu de Palha — versão beta
+### Retro Desktop — Windows 95 & 98
 
-<a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/">
-  <img src="https://raw.githubusercontent.com/natanashi/sapo_do_chapeu_de_palha/main/assets/social-preview.jpg" alt="Capa da versão beta de Sapo do Chapéu de Palha" width="100%">
+<a href="https://retro-desktop-windows-95-98-nataniel-work.vercel.app/">
+  <img src="./assets/windows-profile-preview.jpg" alt="Tela inicial do Retro Desktop, com a escolha entre Windows 95 e Windows 98" width="100%">
 </a>
 
-A versão disponível no navegador é uma **beta**, criada para testar a jogabilidade, os cenários, os inimigos e a progressão da corrida. O desenvolvimento continua, e a versão oficial será lançada para **Steam** e **Play Store**.
+Criei uma experiência interativa para revisitar os desktops do **Windows 95 e Windows 98**, direto no navegador. Dá para explorar janelas, abrir aplicativos e jogar clássicos como Campo Minado e Paciência, além de conhecer um pouco da história desses sistemas.
+
+O projeto foi desenvolvido com **HTML, CSS e JavaScript**, com atenção aos detalhes visuais da época e à experiência de usar um computador antigo.
 
 <p align="center">
-  <a href="https://natanashi.github.io/sapo_do_chapeu_de_palha/"><strong>Jogar a versão beta</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/natanashi/sapo_do_chapeu_de_palha"><strong>Acompanhar o desenvolvimento</strong></a>
+  <a href="https://retro-desktop-windows-95-98-nataniel-work.vercel.app/"><strong>Acessar o projeto Windows 95 & 98 no Vercel</strong></a>
 </p>
 
 ## Ferramentas que fazem parte do meu caminho
