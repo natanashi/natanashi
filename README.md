@@ -31,6 +31,22 @@ Tenho um carinho especial por interfaces bem cuidadas, experiências interativas
 
 Gosto de criar para a web, trabalhar em interfaces que funcionem bem no computador e no celular e experimentar com animações, jogos e ideias visuais. Também me interesso pela parte mais estrutural dos projetos: organizar o código e conectar dados.
 
+## Projeto em destaque
+
+### Retro Desktop — Windows 95 & 98
+
+<a href="https://retro-desktop-windows-95-98-nataniel-work.vercel.app/">
+  <img src="./assets/retro-windows-cover.png" alt="Capa oficial do Retro Desktop Windows 95 e 98" width="100%">
+</a>
+
+Criei uma experiência interativa para revisitar os desktops do **Windows 95 e Windows 98**, direto no navegador. Dá para explorar janelas, abrir aplicativos e jogar clássicos como Campo Minado e Paciência, além de conhecer um pouco da história desses sistemas.
+
+O projeto foi desenvolvido com **HTML, CSS e JavaScript**, com atenção aos detalhes visuais da época e à experiência de usar um computador antigo.
+
+<p align="center">
+  <a href="https://retro-desktop-windows-95-98-nataniel-work.vercel.app/"><strong>Acessar o projeto Windows 95 & 98 no Vercel</strong></a>
+</p>
+
 ## Experiência profissional
 
 ### Raika Personalizados
@@ -47,22 +63,6 @@ Nesse projeto, transformei a identidade visual e o catálogo da empresa em uma e
   <a href="https://natanashi.github.io/raika-personalizados/"><strong>Visitar o site</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/natanashi/raika-personalizados"><strong>Ver o repositório</strong></a>
-</p>
-
-## Projeto em destaque
-
-### Retro Desktop — Windows 95 & 98
-
-<a href="https://retro-desktop-windows-95-98-nataniel-work.vercel.app/">
-  <img src="./assets/windows-profile-preview.jpg" alt="Tela inicial do Retro Desktop, com a escolha entre Windows 95 e Windows 98" width="100%">
-</a>
-
-Criei uma experiência interativa para revisitar os desktops do **Windows 95 e Windows 98**, direto no navegador. Dá para explorar janelas, abrir aplicativos e jogar clássicos como Campo Minado e Paciência, além de conhecer um pouco da história desses sistemas.
-
-O projeto foi desenvolvido com **HTML, CSS e JavaScript**, com atenção aos detalhes visuais da época e à experiência de usar um computador antigo.
-
-<p align="center">
-  <a href="https://retro-desktop-windows-95-98-nataniel-work.vercel.app/"><strong>Acessar o projeto Windows 95 & 98 no Vercel</strong></a>
 </p>
 
 ## Ferramentas que fazem parte do meu caminho
